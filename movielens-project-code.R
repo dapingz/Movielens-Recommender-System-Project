@@ -1,4 +1,4 @@
-# "Movielens Recommendation System Project" by Daping Zhang,  June 11, 2022
+# "Movielens Recommendation System Project" by Daping Zhang,  June 20, 2022
 
 # This report represents the buildings of the Movielens Recommendation System that 
 # consists of the preparation of data set, the exploration and analysis of data, 
